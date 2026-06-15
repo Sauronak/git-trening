@@ -1,1 +1,3 @@
 Muj prvni Git projekt.
+Git je super.
+
